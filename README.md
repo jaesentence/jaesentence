@@ -1,16 +1,47 @@
-## Hi there 👋
+개인정보 처리방침 (Privacy Policy)
 
-<!--
-**jaesentence/jaesentence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. 개요
+본 애플리케이션(이하 “앱”)은 사용자의 개인정보 보호를 최우선으로 하며, 최소한의 데이터만을 수집 및 활용합니다. 본 개인정보 처리방침은 2025년도 대한민국 법률을 준수하며, 사용자가 제공하는 개인정보의 처리 방식에 대해 설명합니다.
 
-Here are some ideas to get you started:
+2. 개인정보 수집 및 이용 목적
+앱은 **Google 로그인 (Firebase Authentication)**을 통해 사용자 인증을 진행하며, 인증 과정에서 다음 정보를 수집할 수 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(1) 필수 수집 정보
+	•	이름
+	•	이메일
+	•	프로필 이미지
+
+(2) 선택적 수집 정보
+	•	향후 필요 시 추가적으로 데이터를 요청할 수 있으며, 해당 시점에서 사용자의 동의를 다시 받습니다.
+
+ 3. 개인정보 보관 및 보호
+	•	앱은 사용자의 개인정보를 별도로 저장하지 않습니다.
+	•	사용자의 개인정보는 **Google Firebase의 사용자 인증 시스템(Firebase Authentication)**을 통해 Google의 서버에 저장 및 관리됩니다.
+	•	개발자는 Firebase에서 제공하는 인증 정보 외에 별도의 서버나 데이터베이스에 사용자의 개인정보를 저장하지 않습니다.
+
+4. 개인정보 제3자 제공
+앱은 사용자의 개인정보를 제3자에게 제공하지 않습니다. 다만, 법령에 의거하여 제공 의무가 발생하는 경우에 한하여 예외적으로 제공될 수 있습니다.
+
+5. 개인정보 보유 및 이용 기간
+	•	사용자의 개인정보는 Google Firebase에서 사용자가 계정을 삭제하거나, 앱 사용을 중단할 때까지 보관됩니다.
+	•	사용자가 Firebase 계정을 직접 삭제하면 모든 인증 정보가 삭제됩니다.
+
+Firebase 계정 삭제 요청 방법
+	1.	Firebase에 저장된 인증 정보 삭제를 원할 경우, 앱 개발자에게 이메일 문의를 통해 요청할 수 있습니다.
+
+ 6. 사용자의 권리 및 선택권
+	•	사용자는 Google 계정을 통해 언제든지 이름, 이메일, 프로필 이미지 등의 정보를 수정할 수 있습니다.
+	•	사용자는 Google 계정 관리 페이지에서 Firebase에 저장된 자신의 데이터를 삭제할 수 있습니다.
+
+7. 보안 조치
+앱은 사용자의 개인정보 보호를 위해 다음과 같은 보안 조치를 적용합니다.
+	•	Firebase Authentication의 보안 프로토콜을 이용하여 사용자 인증
+	•	앱 내부적으로 추가적인 개인정보 저장 및 보관을 하지 않음
+
+8. 문의 사항
+개인정보 보호와 관련하여 궁금한 사항이 있으시면 아래 연락처로 문의해 주세요.
+
+이메일: jaesentence.sup@gmail.com
+개발자: 개인 개발자 (Jaeyoung Min)
+
+이 처리방침은 2025년 2월 1일부터 적용됩니다.
